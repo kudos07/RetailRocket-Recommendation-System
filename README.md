@@ -94,11 +94,6 @@ The RetailRocket dataset is used to simulate user interactions, including browsi
 - High-speed data processing and analytics with PySpark.
 - Machine learning-based recommendation system implemented in the Jupyter Notebook.
 
-## Author
-
-Saransh Surana  
-- GitHub: [kudos07](https://github.com/kudos07)
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
